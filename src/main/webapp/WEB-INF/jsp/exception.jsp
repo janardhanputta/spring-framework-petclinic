@@ -7,7 +7,7 @@
     <spring:url value="/resources/images/pets.png" var="petsImage"/>
     <img src="${petsImage}"/>
 
-    <h2>Error found...</h2>
+    <h2>No exception found..</h2>
 
     <p>${exception.message}</p>
 
